@@ -238,6 +238,8 @@ function ajax(method, url, data, success, error) {
 // form.addEventListener("submit", handleSubmit)
 
 /*4
-this is a test
+    git add .
+    git coomit -m "messageE"
 
+    git push
 */
