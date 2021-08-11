@@ -1,4 +1,4 @@
-# My Git Project
+# SeansPortfolio
 
 > My code for the git project
 
